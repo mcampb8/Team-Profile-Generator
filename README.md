@@ -26,7 +26,11 @@ I worked on this project with some help from my tutor David, as well as some hel
 ---
 
 ## Tests
-I have included a test sweet to test the functionality of this application
+I have included a test suite to test the functionality of this application
+## Video Walkthrough
+[Video](https://drive.google.com/file/d/1AL2_NfXYc7_GIgWzkbdU3LzHclZdfM8j/view)
+## Application Screenshot
+[Screenshot](./my-team.png)
 ## Questions
 [Email](mailto:michaelicampbell8@gmail.com)
 [Github](https://www.github.com/mcampb8)
