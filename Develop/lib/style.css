@@ -1,0 +1,18 @@
+.card-header {
+    background-color: #a0d2eb;
+    color: black;
+}
+.team-heading {
+    background-color: #8458B3;
+    color: black;
+}
+.card-body{
+    background-color: #d0bdf4;
+}
+.list-group li {
+    background-color:  #e5eaf5;
+}
+.employee-card{
+    margin:10px;
+    box-shadow: 5px 5px;
+}
