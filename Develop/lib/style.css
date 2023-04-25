@@ -16,3 +16,9 @@
     margin:10px;
     box-shadow: 5px 5px;
 }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 100%;
+}
